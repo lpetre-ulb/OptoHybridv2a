@@ -279,59 +279,59 @@
     <file xil_pn:name="../src/ucf/vfat2_v2a.ucf" xil_pn:type="FILE_UCF">
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/tdc.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/tdc.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="40"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/calibration_pulse_generator.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/calibration_pulse_generator.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="17"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/tdc_delay_line.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/tdc_delay_line.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="3"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/edge_detector.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/edge_detector.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="5"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/onehot_decoder_256.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/onehot_decoder_256.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="4"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/tdc_channel.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/tdc_channel.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="14"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/calibration.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/calibration.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="18"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/sbits_delay.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/sbits_delay.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="2"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="16"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/coarse_counter.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/coarse_counter.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="6"/>
     </file>
-    <file xil_pn:name="../src/tdc/hdl/tdc_cdc.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/hdl/tdc_cdc.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="0"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="15"/>
     </file>
-    <file xil_pn:name="../src/tdc/example/tdc_wrapper_ohv2a.vhd" xil_pn:type="FILE_VHDL">
+    <file xil_pn:name="../src/optohybrid_tdc/example/tdc_wrapper_ohv2a.vhd" xil_pn:type="FILE_VHDL">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="130"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="62"/>
     </file>
-    <file xil_pn:name="../src/tdc/ip_cores/ram512x15.xco" xil_pn:type="FILE_COREGEN">
+    <file xil_pn:name="../src/optohybrid_tdc/ip_cores/ram512x15.xco" xil_pn:type="FILE_COREGEN">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="132"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="1"/>
     </file>
-    <file xil_pn:name="../src/tdc/ip_cores/ram512x12.xco" xil_pn:type="FILE_COREGEN">
+    <file xil_pn:name="../src/optohybrid_tdc/ip_cores/ram512x12.xco" xil_pn:type="FILE_COREGEN">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="139"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="2"/>
     </file>
-    <file xil_pn:name="../src/tdc/ip_cores/fifo512x32.xco" xil_pn:type="FILE_COREGEN">
+    <file xil_pn:name="../src/optohybrid_tdc/ip_cores/fifo512x32.xco" xil_pn:type="FILE_COREGEN">
       <association xil_pn:name="BehavioralSimulation" xil_pn:seqID="146"/>
       <association xil_pn:name="Implementation" xil_pn:seqID="13"/>
     </file>
@@ -360,15 +360,6 @@
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
     <file xil_pn:name="../src/ip_cores/pll_50MHz.xise" xil_pn:type="FILE_COREGENISE">
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
-    <file xil_pn:name="../src/tdc/ip_cores/ram512x15.xise" xil_pn:type="FILE_COREGENISE">
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
-    <file xil_pn:name="../src/tdc/ip_cores/ram512x12.xise" xil_pn:type="FILE_COREGENISE">
-      <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
-    </file>
-    <file xil_pn:name="../src/tdc/ip_cores/fifo512x32.xise" xil_pn:type="FILE_COREGENISE">
       <association xil_pn:name="Implementation" xil_pn:seqID="0"/>
     </file>
   </files>
