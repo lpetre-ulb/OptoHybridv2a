@@ -1,0 +1,3 @@
+[submodule "src/optohybrid_tdc"]
+	path = src/optohybrid_tdc
+	url = https://github.com/lpetre-ulb/optohybrid_tdc.git
